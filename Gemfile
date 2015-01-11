@@ -14,6 +14,8 @@ group :production do
 	gem 'rails_12factor'
 end
 
+gem 'devise'
+
 
 # Use sqlite3 as the database for Active Record
 # Use SCSS for stylesheets
