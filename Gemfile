@@ -11,7 +11,9 @@ end
 
 group :production do 
 	gem 'pg'
+	gem 'rails_12factor'
 end
+
 
 # Use sqlite3 as the database for Active Record
 # Use SCSS for stylesheets
